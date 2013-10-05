@@ -1,22 +1,10 @@
-.. plone.api documentation master file, created by
-   sphinx-quickstart on Sat Oct  5 17:08:30 2013.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+A Plone API
+===========
+**Overview**
 
-Welcome to plone.api's documentation!
-=====================================
+The ``plone.api`` is an elegant and simple API, built for humans wishing to develop with Plone.
 
-Contents:
+It comes with *cookbook*-like documentation and step-by-step instructions for doing common development tasks in Plone. Recipes try to assume the user does not have extensive knowledge about Plone internals.
 
-.. toctree::
-   :maxdepth: 2
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Read the latest documentation for ``plone.api`` at `http://api.plone.org <http://api.plone.org>`_
 
