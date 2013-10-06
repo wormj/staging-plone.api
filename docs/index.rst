@@ -1,5 +1,5 @@
 .. meta::
-   :http-equiv=refresh: 5; url=http://api.plone.org/
+   :http-equiv=refresh: 2; url=http://api.plone.org/
 
 *******************************
 A Plone API
@@ -19,6 +19,10 @@ A Plone API
     .. warning::
 
         Read the latest documentation for :mod:`plone.api` at `http://api.plone.org <http://api.plone.org>`_
+
+    .. toctree::
+
+        Plone.api official documentation <http://api.plone.org>
 
 .. topic:: About Plone
 

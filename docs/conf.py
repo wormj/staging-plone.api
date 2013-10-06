@@ -4,7 +4,9 @@ html_domain_indices = False
 html_output_encoding = 'utf-8' # hardcoded special char &reg; (®) added to Plone®
 html_show_sourcelink = False
 html_use_index = False
-html_sidebars = { '**': [ 'localtoc.html' ]  }
+html_logo = "plone-logo-48.png"
+html_sidebars = { '**': [ 'globaltoc.html' ]  }
+
 project = u'plone.api'
 copyright = u'2013, Plone Foundation'
 source_encoding = 'utf-8' # index.rst has special Plone&right; character
