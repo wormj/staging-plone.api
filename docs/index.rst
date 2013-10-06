@@ -1,10 +1,26 @@
+.. meta::
+   :http-equiv=refresh: 5; url=http://api.plone.org/
+
+*******************************
 A Plone API
-===========
-**Overview**
+*******************************
 
-The ``plone.api`` is an elegant and simple API, built for humans wishing to develop with Plone.
+.. topic:: Overview
 
-It comes with *cookbook*-like documentation and step-by-step instructions for doing common development tasks in Plone. Recipes try to assume the user does not have extensive knowledge about Plone internals.
+    The :mod:`plone.api` is an elegant and simple API, built for humans wishing
+    to develop with Plone®.
 
-Read the latest documentation for ``plone.api`` at `http://api.plone.org <http://api.plone.org>`_
+    It comes with *cookbook*-like documentation and step-by-step instructions
+    for doing common development tasks in Plone. Recipes try to assume the user
+    does not have extensive knowledge about Plone internals.
+
+.. topic:: Official Documentation
+
+    .. warning::
+
+        Read the latest documentation for :mod:`plone.api` at `http://api.plone.org <http://api.plone.org>`_
+
+.. topic:: About Plone
+
+    This is documentation for Plone®. `Plone is a popular, open source, content management system written in Python programming language. <http://plone.org>`_
 
